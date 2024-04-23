@@ -1,8 +1,8 @@
 <html>
   <head>
   <title> Login </title>
+    </head>
   <body>
-    <h1>LOGIN</h1>
+    <h1>Halaman Login SMKPI</h1>
   </body>
-    </head><
 </html>
